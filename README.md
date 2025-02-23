@@ -34,8 +34,10 @@ Welcome to the **Advanced Plotting Application**! This powerful and user-friendl
 ## **Getting Started:**
 1. **Installation:**  
    Download and run the **.exe** file for a standalone experience! No installation of Python or dependencies required. (For Windows users only.)
+   ```link
+   https://www.mediafire.com/file/0632uuku1rx8cpp/Matplotlib_Plotting.exe/file
 
-2. **Using the Application:**
+3. **Using the Application:**
    - Select the plot type you wish to generate from the dropdown.
    - Enter your **X** and **Y axis values** separated by commas.
    - Choose your **plot color**.
@@ -43,7 +45,7 @@ Welcome to the **Advanced Plotting Application**! This powerful and user-friendl
    - Click **Generate Plot** to visualize your data.
    - You can also view your plot history or save your plot as a PDF file!
 
-3. **Save as PDF:** After generating the plot, you can save it as a PDF for future use or to include it in reports or presentations.
+4. **Save as PDF:** After generating the plot, you can save it as a PDF for future use or to include it in reports or presentations.
 
 ---
 
@@ -58,13 +60,13 @@ Welcome to the **Advanced Plotting Application**! This powerful and user-friendl
 ## **How to Use the GitHub Version:**
 
 1. Clone the repository to your local machine:  
-   `git clone https://github.com/Dilshan-Mindika/Matplotlib_Plotting.git`
+   `git clone https://github.com/Dilshan-Mindika/Matplotlib-Plotting.git`
 
 2. Install dependencies (if you want to run the Python script directly):  
    ```bash
    pip install matplotlib numpy
 3. Run the Python script:
    ```bash
-   python Matplotlib_Plotting.py
+   python Matplotlib-Plotting.py
 
    
